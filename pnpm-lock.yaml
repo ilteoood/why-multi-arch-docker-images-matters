@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   '@slidev/cli':
-    specifier: ^0.40.5
+    specifier: ^0.40.16
     version: 0.40.16(postcss@8.4.31)
   '@slidev/theme-default':
     specifier: '*'
